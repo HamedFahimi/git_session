@@ -1,2 +1,2 @@
 Write down your opinions regarding git class.
-Hamed Fahimi: The students had very good performances throughout the class. 
+Ahmadreza Safari: I learned git a bit.
